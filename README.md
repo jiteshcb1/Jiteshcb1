@@ -1,4 +1,4 @@
-Hi 👋 My name is Jitesh Chhabra
+Hey 👋 I am Jitesh Chhabra
 ===============================
 
 Frontend Developer & UI/UX Designer
