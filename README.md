@@ -4,7 +4,7 @@ Hey 👋 I am Jitesh Chhabra
 Frontend Developer & UI/UX Designer
 -----------------------------------
 
-I wanted to be the part this fast paced world since my childhood because of my fascination for the tech products, and as the world is facing everyday life challenges and solving them with convenient solutions using technology therefore one of the dimension for being part of this tech era is software engineering which, I'm pursuing currently and want to continue the journey as a developer for the change world need to see.
+I've wanted to be a part of this fast-paced world since I was a child because of my fascination with tech products, and as the world faces everyday life challenges and solves them with convenient solutions using technology, software engineering is one of the dimensions for being a part of this tech era, which I'm currently pursuing and want to continue the journey as a developer for the change the world needs to see.
 
 * 🌍  I'm based in Raipur
 * ✉️  You can contact me at [jitesh.chhabra@outlook.com](mailto:jitesh.chhabra@outlook.com)
